@@ -3,4 +3,4 @@ Using Neural networks to transfer the Kandinsky's painting style onto a family p
 
 # Initial Images
 
-![Image of framework](https://github.com/jackapbutler/AI-Painting/blob/master/Images/sofi_fam.jpeg)
+![Image of framework](Images/sofi_fam.jpeg)
