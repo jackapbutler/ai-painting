@@ -1,8 +1,11 @@
 # AI-Painting
 Using Neural networks to transfer the Kandinsky's painting style onto a family photograph. 
 
-# Initial Image
+## Initial Image
 ![Image of framework](Images/sofi_fam.jpeg)
 
-# Painting Style
+## Painting Style
 ![Image of framework](Images/kandinsky_style.jpg)
+
+## Result
+![Image of framework](Images/sofi_fam_5000.jpg)
