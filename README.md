@@ -8,4 +8,4 @@ Using Neural networks to transfer the Kandinsky's painting style onto a family p
 ![Image of framework](Images/kandinsky_style.jpg)
 
 ## Result
-![Image of framework](Images/sofi_fam_5000.png)
+![Image of framework](Images/sofia_fam_5000.png)
